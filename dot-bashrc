@@ -1,0 +1,19 @@
+export VISUAL=mvim
+export EDITOR=vim
+
+alias chrome="open -a 'Google Chrome' "
+alias lqs53="convert $1 -liquid-rescale 400x300\! $2"
+alias yolkalyzer="ruby $HOME/code/ruby/yolkalyzer/yolkalyzer.rb $1 $2"
+alias cit="python $HOME/code/python/cit/cit.py"
+#alias mvim="open -a MacVim "
+export PATH=/usr/local/bin:/usr/local/sbin:$PATH
+#export PATH="$PATH:$ANDROID_SDK_PATH/platform-tools:$ANDROID_SDK_PATH/tools"
+#export PATH="/usr/local/share/python:$PATH"
+#export PATH="/usr/local/Cellar/ruby/1.9.3-p0/bin:$PATH"
+#export PATH="/usr/local/share/python:$PATH"
+
+export PERL_LOCAL_LIB_ROOT="/Volumes/Delta/perl5";
+export PERL_MB_OPT="--install_base /Volumes/Delta/perl5";
+export PERL_MM_OPT="INSTALL_BASE=/Volumes/Delta/perl5";
+export PERL5LIB="/Volumes/Delta/perl5/lib/perl5/darwin-thread-multi-2level:/Volumes/Delta/perl5/lib/perl5";
+export PATH="/Volumes/Delta/perl5/bin:$PATH";
