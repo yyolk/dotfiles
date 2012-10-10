@@ -1,0 +1,1 @@
+{"globalFilters":"[\"-https://mail.google.com/*\",\"-https:#reader.google.com/*\",\"-https:#.dropbox.com/*\",\"-https:#github.com/*\",\"*\"]","hotkeys":"[[\"22\",\"rl\",\"RL\",\"fu.openBookmarkByPath('/Other Bookmarks/bin/rl')\",[\"\"]],[\"23\",\"<M-j>\",\"pinboard\",\"fu.openBookmarkByPath('/Other Bookmarks/bin/PB')\",[\"\"]]]"}
